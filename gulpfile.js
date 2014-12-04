@@ -30,7 +30,7 @@ var _js   = 'assets/js/';
 var js_   = 'public/assets/js/';
 
 // Bower
-var bower = 'bower_components';
+var bower = 'bower_components/';
 
 /*
 |--------------------------------------------------------------------------

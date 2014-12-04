@@ -1,7 +1,7 @@
 {
     "main": "public/index.html",
     "name": "CJDNS",
-    "description": "",
+    "description": "A GUI for CJDNS on OS X",
     "version": "0.0.0",
     "plugins" : {
                 "Dock":"Dock",
@@ -19,10 +19,8 @@
         "width" : 900,
         "height" : 600,
         "position": "center",
-        "min_width": 400,
-        "min_height": 200,
-        "max_width": 1200,
-        "max_height": 800
+        "min_width": 300,
+        "min_height": 450,
     }
   
 }
