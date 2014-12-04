@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>05DEC22A-E6E9-40FC-9B5D-1BB13B3A2394</string>
+	<string>A800C150-53DB-4E2A-A5E4-E9EF248E5925</string>
 	<key>IDESourceControlProjectName</key>
-	<string>MG</string>
+	<string>CJDNS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6619CA971E46A2C1689FBEA6301DFE23F3ECA032</key>
-		<string>https://github.com/rawcreative/MacGap2.git</string>
+		<key>C9D31FE660A19FEDA1E8595B5D5AF938CEABDE5A</key>
+		<string>github.com:lukevers/cjdns-osx-gui.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MG.xcodeproj</string>
+	<string>CJDNS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6619CA971E46A2C1689FBEA6301DFE23F3ECA032</key>
+		<key>C9D31FE660A19FEDA1E8595B5D5AF938CEABDE5A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/rawcreative/MacGap2.git</string>
+	<string>github.com:lukevers/cjdns-osx-gui.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6619CA971E46A2C1689FBEA6301DFE23F3ECA032</string>
+	<string>C9D31FE660A19FEDA1E8595B5D5AF938CEABDE5A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6619CA971E46A2C1689FBEA6301DFE23F3ECA032</string>
+			<string>C9D31FE660A19FEDA1E8595B5D5AF938CEABDE5A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>MG</string>
+			<string>cjdns-osx-gui</string>
 		</dict>
 	</array>
 </dict>
