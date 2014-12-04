@@ -10,3 +10,6 @@ public/assets/css/*.css
 public/assets/js/*.js
 
 .DS_Store
+
+CJDNS.xcodeproj/xcuserdata
+CJDNS.xcodeproj/project.xcworkspace/xcuserdata
