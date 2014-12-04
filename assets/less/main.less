@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/*
+|--------------------------------------------------------------------------
+| Imports
+|--------------------------------------------------------------------------
+*/
+
+@import "variables.less";
+@import "fonts.less";
+
+/*
+|--------------------------------------------------------------------------
+| Basic Attributes
+|--------------------------------------------------------------------------
+*/
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+* {
+	outline: none !important;
+
+	&:focus,
+	&:hover,
+	&:active {
+		outline: none !important;
+	}
+}
+
+a {
+	&:hover,
+	&:focus,
+	&:active {
+		text-decoration: none;
+	}
+}

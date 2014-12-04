@@ -2,5 +2,11 @@ public/status.png
 public/statush.png
 
 build/
+node_modules/
+bower_components/
+
+assets/css/*.css
+public/assets/css/*.css
+public/assets/js/*.js
 
 .DS_Store
