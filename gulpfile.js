@@ -81,7 +81,7 @@ var css_files = css_bower.concat([
 var js_bower = [
 	// -- Add JS files from bower -- //
 
-	'',
+	'jquery/dist/jquery.min.js',
 
 	// -- End JS files from bower -- //
 ].map(function(str) { return bower + str });
@@ -91,6 +91,7 @@ var js_files = js_bower.concat([
 	// -- Add JS files from assets -- //
 
 	'main.js',
+	'index.js',
 
 	// -- End JS files from assets -- //
 ].map(function(str) { return _js + str }));

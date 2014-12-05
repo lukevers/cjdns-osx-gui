@@ -8,6 +8,7 @@
 
 @import "variables.less";
 @import "fonts.less";
+@import "index.less";
 
 /*
 |--------------------------------------------------------------------------
@@ -21,11 +22,12 @@ body {
 	width: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Helvetica';
+	background-color: @white;
 }
 
 * {
 	outline: none !important;
+	.helvetica();
 
 	&:focus,
 	&:hover,
@@ -40,4 +42,13 @@ a {
 	&:active {
 		text-decoration: none;
 	}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 400;
 }
